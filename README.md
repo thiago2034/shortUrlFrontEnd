@@ -21,5 +21,5 @@ yarn install
 Para execurtamos o projeto em modo de desenvolvimento e necessario execurtarmos o seguinte comando no terminal:
 
 ```bash
-quasar dev
+npx quasar dev
 ```
